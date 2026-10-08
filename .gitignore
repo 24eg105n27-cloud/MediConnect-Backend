@@ -1,0 +1,6 @@
+﻿target/
+*.class
+*.log
+.env
+application-local.properties
+*.jks
